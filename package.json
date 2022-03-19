@@ -1,0 +1,11 @@
+{
+  "name": "crypto-notify-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/enyoghasim/crypto__notify__twitter__bot.git",
+  "author": "Gift Enyoghasim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
