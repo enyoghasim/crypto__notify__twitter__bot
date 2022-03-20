@@ -9,7 +9,10 @@
   "author": "Gift Enyoghasim",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.3"
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "node-cron": "^3.0.0",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
